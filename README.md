@@ -35,11 +35,11 @@ Creating branches and merging via Pull Requests
 🛠 Prerequisites
 Before starting, make sure you have:
 
-Git installed → Download Git
+Git installed
 
-GitHub Account → Create here
+GitHub Account 
 
-SSH key configured for GitHub → Guide
+SSH key configured for GitHub 
 
 
 
